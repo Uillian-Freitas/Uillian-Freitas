@@ -7,16 +7,23 @@ Estudante de Desenvolvimento Full Stack JavaScript pela EBAC, com foco na constr
 
 ### Detalhes
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Uillian-Freitas&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=Uillian-Freitas&show_icons=true&theme=dark&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### Projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Uillian-Freitas&repo=Harley-Stream.github.io&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Uillian-Freitas&repo=Harley-Stream.github.io&theme=dark)](https://github.com/Uillian-Freitas/Harley-Stream.github.io)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Uillian-Freitas&repo=calculadora-com-vue&theme=dark)](https://github.com/Uillian-Freitas/calculadora-com-vue)
+
+---
 
 ### Linguagens utilizadas
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uillian-Freitas&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uillian-Freitas&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+
+---
 
 ### Contatos
 
