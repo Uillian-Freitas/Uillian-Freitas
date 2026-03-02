@@ -13,9 +13,7 @@ Estudante de Desenvolvimento Full Stack JavaScript pela EBAC, com foco na constr
 
 ### 🚀 Projeto em destaque
 
-<a href="https://github.com/Uillian-Freitas/Harley-Stream">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Uillian-Freitas&repo=Harley-Stream&theme=dark" />
-</a>
+[![Harley-Stream](https://github-readme-stats.vercel.app/api/pin/?username=Uillian-Freitas&repo=Harley-Stream&theme=dark)](https://github.com/Uillian-Freitas/Harley-Stream)
 
 ---
 
