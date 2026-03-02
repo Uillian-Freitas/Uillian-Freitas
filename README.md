@@ -7,13 +7,13 @@ Estudante de Desenvolvimento Full Stack JavaScript pela EBAC, com foco na constr
 
 ### 📊 Estatísticas
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Uillian-Freitas&show_icons=true&theme=tokyonight&hide_border=true)
+![Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=Uillian-Freitas&show_icons=true&theme=tokyonight&hide_border=true)
 
 ---
 
 ### 🚀 Projeto em destaque
 
-![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Uillian-Freitas&repo=Harley-Stream.github.io&theme=tokyonight&hide_border=true)
+![Repo Card](https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Uillian-Freitas&repo=Harley-Stream&theme=tokyonight&hide_border=true)
 
 ---
 
